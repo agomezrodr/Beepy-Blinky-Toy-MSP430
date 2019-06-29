@@ -1,0 +1,25 @@
+
+Project by Adrian Gomez Rodriguez
+
+    This project was really interesting for me because I have to make a very long
+    reaserch to understand the demos that our TA and the proffesor give
+    us. However, with the help of the book, my proffesor and some friends 
+    I could understand the meaning of the P1OUT, P1DIR, P2SEL, etc. Also, 
+    the use of the bottons and the LEDs was a big challenge for me
+    but I think the more complicate challenge about this lab is
+    to create the molody using frequency on the MSP430. One thing that
+    I think it was very important in this lab, was the transition of 
+    states becaus that is the way that I use to make work buttons, 
+    melody and LED's. Finally, I hope that the knowledge that I got
+    on this lab can help me to understand and work on the next lab. 
+    Here is my explication of how to make my program work using the 
+    make file.
+
+To compile my programs: $ make
+
+To run my program: $ make load
+
+To delete binaries: $ make clear
+
+
+Thank you.
